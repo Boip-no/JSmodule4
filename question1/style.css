@@ -1,0 +1,15 @@
+body {
+  font-family: arial;
+  font-size: 2em;
+  background-color: pink;
+  margin: 20%;
+
+}
+
+button {
+  display: flex;
+  font-size: 2em;
+  color: grey;
+  background: white;
+  padding: 10px;
+}
